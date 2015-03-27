@@ -1,0 +1,25 @@
+html {
+	background-color:#000000;
+}
+
+body {
+	background-color:#000000;
+    color:#FFFFFF;
+    font-family: 'Press Start 2P', 'Open Sans', sans-serif;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+canvas {
+	margin:0 auto;
+	border:1px solid #FFFFFF;
+	display:block;
+}
+
+#level {
+	margin-top:8px;
+}
